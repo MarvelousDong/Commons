@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="327b3156-a811-400b-89da-19a1f6ff7be6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-145be28cb1e05639ea84aefece0001c4.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-17f44633c5e63d0bc0212c5ef505ada7.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-1928a4ee18f60bd2098295df86c9da86.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-2a96d07857eba0665f6a333f0f68f047.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-2dcdb164e703ecdc773fc400dbe801e8.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-3dba0cbc56b23c17afaabe0fb43cb318.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-3f74d1c2c9ab484cbc7671ccb2b116a7.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-3f876c755c59fe1bef38fbfa75600d0e.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-54422b38813257b92489734d6cd21cec.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-64560e503dce2a551be1abce9a5748b2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-647651952a0d38afd7ba681fbc8ed1c5.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-69c92d9f3e25c5e1a9607e8240701b9c.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-6b3e6940851ad2102a8d5175e4d2f68c.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-835b74725ed4cb0c5a7a293078e72ca2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-885b4ce48bbbc2546599537be44aa1da.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-8cbce7698c55a544289c72eff5fa125e.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-8dbf0ffb87da20a08cef9f8de85f6dd4.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-990b7107b4b0ee2bd1ec05b4143df02e.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-a9b7fdf42763f92924f08c43669d8056.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-bfbe2de69560a407d6a83f0c843ce40e.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-f2c90f3569ee2635dc491e9af65a2b81.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-f42023347aabde90affd06f70d0904a7.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-fcbfea2a62ab563f8e3f0895a4fc6fb7.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/DecisionTreeRegressor-cityorders-cityuvs-ff9b9c48372510a35c1ed4893a69b119.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-11b5b557c5170c5b385b973213833017.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-3cb13b5a5e0a884b64250f9ac08ff21d.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-3fac675a10ff767861686b707e9071c7.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-4496bb2340ae88fb9543bff36d2434a4.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-843d525e4f8b8541335a6c82fbf3af7e.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-925404fa3f6cbbe4778ef23bdb0b5217.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-9551865ab31c8b1c7316e25b5536e6fd.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-a13a7f52f70a4878f2fd0c23163f7435.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-bb6ed3a5a38441ce08098c517d14004c.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-c5807a03f9d0460e636f4fc523282576.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-cfb1209471f7bb1df01364d9f6d540d2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-d290841a883151bcc5a5159e7a39cb79.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-d3dd12a816926b84dd3d75fca2ff57fc.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-f960bf36836cf9cf7f7b389e7c472dbd.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/complexity/models/RandomForestRegressor-cityorders-cityuvs-fac15337457133536db9438f73805530.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-cityorders-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-commentnums-cityorders.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-commentnums-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-commentnums-landhalfhours.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-commentnums-lastpvgap.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-commentnums-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-commentnums-starprefer.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-commentnums-visitnum_oneyear.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-decisionhabit_user-cityorders.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-decisionhabit_user-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-decisionhabit_user-commentnums.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-decisionhabit_user-landhalfhours.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-decisionhabit_user-lastpvgap.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-decisionhabit_user-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-decisionhabit_user-ordercanceledprecent.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-decisionhabit_user-starprefer.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-decisionhabit_user-visitnum_oneyear.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-landhalfhours-cityorders.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-landhalfhours-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-landhalfhours-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-lastpvgap-cityorders.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-lastpvgap-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-lastpvgap-landhalfhours.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-lastpvgap-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-lastpvgap-starprefer.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-lowestprice_pre2-cityorders.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-lowestprice_pre2-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-ordercanceledprecent-cityorders.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-ordercanceledprecent-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-ordercanceledprecent-commentnums.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-ordercanceledprecent-landhalfhours.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-ordercanceledprecent-lastpvgap.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-ordercanceledprecent-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-ordercanceledprecent-starprefer.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-ordercanceledprecent-visitnum_oneyear.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-starprefer-cityorders.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-starprefer-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-starprefer-landhalfhours.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-starprefer-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-visitnum_oneyear-cityorders.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-visitnum_oneyear-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-visitnum_oneyear-landhalfhours.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-visitnum_oneyear-lastpvgap.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-visitnum_oneyear-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/correlation/models/PearsonCorrelation-visitnum_oneyear-starprefer.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/ARDRegression-cityorders-cityuvs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/ARDRegression-starprefer-lowestprice_pre2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/AdaBoostRegressor-cityorders-cityuvs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/AdaBoostRegressor-starprefer-lowestprice_pre2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/DecisionTreeRegressor-cityorders-cityuvs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/DecisionTreeRegressor-starprefer-lowestprice_pre2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/KalmanFilterGenerate-cityorders-cityuvs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/KalmanFilterGenerate-starprefer-lowestprice_pre2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/PolyNormalRegressor_rank2-cityorders-cityuvs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/PolyNormalRegressor_rank2-starprefer-lowestprice_pre2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/RandomForestRegressor-cityorders-cityuvs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/RandomForestRegressor-starprefer-lowestprice_pre2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/complexity.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/complexity.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/exhibition/correlation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/ARDRegression-cityorders-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/ARDRegression-starprefer-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/AdaBoostRegressor-cityorders-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/AdaBoostRegressor-starprefer-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/DecisionTreeRegressor-cityorders-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/DecisionTreeRegressor-starprefer-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/KalmanFilterGenerate-cityorders-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/KalmanFilterGenerate-starprefer-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/PolyNormalRegressor_rank2-cityorders-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/PolyNormalRegressor_rank2-starprefer-lowestprice_pre2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/RandomForestRegressor-cityorders-cityuvs.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statics/regression/models/RandomForestRegressor-starprefer-lowestprice_pre2.pkl" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29vM4T3oHsd4nOfgu2GVPTDg1MY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/statics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/statics/origin" />
+      <recent name="$PROJECT_DIR$/statics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.__main__">
+    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="客户流失" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evaluation_exhibition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="客户流失" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/policy_verification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/policy_verification/evaluation_exhibition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="客户流失" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/find_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="客户流失" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/policy_verification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/policy_verification/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="客户流失" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/complexity" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/complexity/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__main__" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.evaluation_exhibition" />
+        <item itemvalue="Python.train (2)" />
+        <item itemvalue="Python.find_all" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="327b3156-a811-400b-89da-19a1f6ff7be6" name="Default Changelist" comment="" />
+      <created>1653988914939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653988914939</updated>
+      <workItem from="1653988916155" duration="1980000" />
+      <workItem from="1654044483414" duration="13455000" />
+      <workItem from="1654069904084" duration="2216000" />
+      <workItem from="1654073879857" duration="1066000" />
+      <workItem from="1654076878631" duration="2216000" />
+      <workItem from="1654124878295" duration="13488000" />
+      <workItem from="1654209762526" duration="326000" />
+      <workItem from="1654210269343" duration="12577000" />
+      <workItem from="1654248102908" duration="2535000" />
+      <workItem from="1654256179610" duration="373000" />
+      <workItem from="1654297723066" duration="4213000" />
+      <workItem from="1654304784053" duration="8633000" />
+      <workItem from="1654330505591" duration="3117000" />
+      <workItem from="1654333901102" duration="875000" />
+      <workItem from="1654334922386" duration="6327000" />
+      <workItem from="1654388534229" duration="1828000" />
+      <workItem from="1654399536736" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$train.coverage" NAME="train Coverage Results" MODIFIED="1654336191545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/complexity" />
+    <SUITE FILE_PATH="coverage/$evaluation_exhibition.coverage" NAME="evaluation_exhibition Coverage Results" MODIFIED="1654301765305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy_verification" />
+    <SUITE FILE_PATH="coverage/$evaluation_exhibition__1_.coverage" NAME="evaluation_exhibition (1) Coverage Results" MODIFIED="1654221102625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regression" />
+    <SUITE FILE_PATH="coverage/$algorithm.coverage" NAME="algorithm Coverage Results" MODIFIED="1654131732867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regression" />
+    <SUITE FILE_PATH="coverage/$train__2_.coverage" NAME="train (2) Coverage Results" MODIFIED="1654250223647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy_verification" />
+    <SUITE FILE_PATH="coverage/$__main__.coverage" NAME="__main__ Coverage Results" MODIFIED="1654339854691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$data.coverage" NAME="data Coverage Results" MODIFIED="1654044897579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1654212727944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regression" />
+    <SUITE FILE_PATH="coverage/$settings.coverage" NAME="settings Coverage Results" MODIFIED="1653989138577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1654054062995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/$find_all.coverage" NAME="find_all Coverage Results" MODIFIED="1654248351956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+  </component>
+</project>
