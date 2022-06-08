@@ -295,22 +295,18 @@
 
 **本部分仅介绍算法部分实现公式以及相关改良及其推广部分，具体算法实施细节请参见百度或 `csdn`**
 
-* 摩托罗拉信号报文解析算法（`LSB`）：
-
-  
-  
 * 字段相关性算法：
 
   * `pearson` 相关性算法：
-  
+
   $$
   \begin{eqnarray*}
   	C_{pearson} = \frac{E[(\bar{x} - E(\bar{x}))\cdot (\bar{y} - E(\bar{x}))]}{\sqrt{E[(\bar{x} - E(\bar{x}))^{2}]}\cdot \sqrt{E[(\bar{y} - E(\bar{y}))^{2}]}}
   \end{eqnarray*}
   $$
+
   
-  
-  
+
 * 回归算法：（每种回归算法公式很多，由于本项目使用 sklearn 等算法库进行算法实现，因此并无改动或推广，细节请参见百度与相关书籍）
 
   1. `DecisionTreeRegressor` 决策树回归；
@@ -319,9 +315,9 @@
   4. `RandomForestRegressor` 随机森林回归（base 决策树）；
   5. `AdaBoostRegressor` `adaboost` 回归（base 决策数）；
   6. 可拓展维度 `kalman` 滤波拟合；
+
   
-  
-  
+
 * `Rademacher` 空间复杂度算法（推广的回归模式）：
   $$
   \begin{eqnarray*}
@@ -332,7 +328,7 @@
       \end{cases}\\
   \end{eqnarray*}
   $$
-  
+
   * Remark：这里对原有的 `Rademacher` 空间复杂度做了个推广，现阶段能查到的复杂度是基于分类任务的，而对于分类任务中，内部的标识函数 I 就可改写成下面这个样子：
     $$
     \begin{eqnarray*}
